@@ -1,0 +1,163 @@
+Customer Name,Service,MISN Number of Devices,MISV Number of Devices,MISW Number of Devices,VMS Number of Devices,NDDOS Number of Devices,BNSS Number of Devices,NSMIS Number of Devices,MERAKI Number of Devices,Project type,Initial request received date,Request compliant date,No compliancy comment,Request assign date,Customer request Date,Service installation date,MSC Name,Comment,Status,On Hold Date,Cancelled Date,Completed Date
+Bank Of Montreal   Day 2,NSMIS,0,0,0,0,0,0,,0,Day 2,2019-03-28,2019-03-28,"",2019-03-28,2019-03-28,2019-03-28,Ibrahima Ba,2019-03-28: validate OBD and sent it to MSCC for upload,In Progress,,,
+Bank Of Nova Scotia   Decommission Bnd Ontoro 01172 Xx Rtrb1 Vgs  And Add Bnd Ontoro 01172 Xx Rtrg1 Vgs,MISN,2,0,0,0,0,0,0,0,Day 2,2019-02-21,2019-02-22,"",2019-02-21,2018-10-02,2019-02-25,Ibrahima Ba,"-Successful - Seeded in Spectrum -- landscape: psgmsspdist004, Successful - Seed to RANCID, MOI,CAPM, NETDICO and RISKVISON
+2019-02-25:
+Hi Vishal(CSE),
+Attached is the confirmation received from MSCC that the device BND-ONTORO-01172XX-RTRG1-VGS has been successfully uploaded. 
+Also, the device BND-ONTORO-01172XX-RTRB1-VGS is decommissioned
+This close your below request.
+Regards,
+Ibrahima
+
+2019-02-25: OBD review and validation and sent it to MSCC for upload",Completed,,,2019-02-25
+Geos Language Corporation ,MERAKI,0,0,0,0,0,0,0,,Day 1,2019-03-21,2019-03-21,"",2019-03-21,2019-04-08,2019-04-08,Ibrahima Ba,21-03-2019: resource assignments request sent,In Progress,,,
+Workers Compensation Board Of Manitoba,NSMIS,0,0,0,0,0,0,,0,Day 1,2018-12-31,2019-03-12,"",2019-01-22,2019-01-03,,Ibrahima Ba,"2016-3-07: Following a call btw Alex and MScs - Alex state that the 
+2019-3-04:  Deliverable Design doc, BBP IDs completed - job plan still in progress  
+2019-2-20: Job Plan work started- first deliverable on Fri 25th - Customer file in progress - Hold MBS creation until Use Case #5 completed
+2019-2-11: BBP IDs finally validated. 
+2019-02-05: T2 provided (Job Plan to be populated later), SR Catalogue created and sent to stakeholders
+2019-02-01: Contact Management created in Maximo 
+2019-01-29: SR SR142827 created by MSC, BBP access created, tested, and sent to the users by MSCC
+2019-01-22: SMI completed - Kickoff completed - Customer created in Maximo (SR to be created)
+Welcome package to be created - Request billing start Date to PS John Lonsmen
+Set up a weekly touchpoint to review all the deliverables with SOC, PS, and PM 
+2019-01-18: Requested to transmit the Contact Form to the customer and have them fill it by Wednesday January 23rd 
+2019-01-17: Activity already completed reviewed with Alexandre. The deliverable left will be discussed internally on Fri 18 and planned accordingly. 
+2019-01-15: Deliverable review - Workers Compensation Board of Manitoba - Managed SIEM booked with Carangi, Alexandre; Guerrier, Gerald (SOC) and Martin booked for Jan 17
+2019-01-07: Document (Agreements) review and Kick-Off call prepa
+2019-01-07: (email) Graph (Code NWA) Day1 and Day2 provided to Alexandre Carangi
+2019-01-03: Project assignment to MSC by FD",On Hold,2019-02-20,,
+The Regional Municipality Of Durham,NDDOS,0,0,0,0,1,0,0,0,Day 2,2019-01-23,2019-02-14,"",2019-01-23,2019-01-23,2019-02-04,Ibrahima Ba,"2019-3-8: Follup with Steve Sheehan about readiness - Cx not ready 
+2019-2-28: All completed on Bell's side. As soon as Cx install equipment and is ready - Bell will do the cutover and go soaking
+2019-2-26:My apologies for the delay Ibrahima, we are a large organization and I need to get many departments who have 24/7 operations and very different business models on board before I can share a date with you.
+2019-2-21: All activities completed - only Cutover remain - reminder sent to customer
+2019-2-20:CI will be renamed today (call with MSCC) - MSC perform multiple Customer Escalation => expected a Cut-over date today.  
+2019-02-05: Issue with CIs creation in Maximo. Requested to MSCC to move forward with the BBP access the time the CIs issues resolved 
+2019-02-05: MSCC requested completed - Incident Manager provided - Final SIWB + WP provided to MSCC
+2019-Jan-29: Engaged the Customer (Steve Sheehan) - informed the project status and upcoming Kickoff call - request confirmation for the BBP user IDs
+2019-Jan-25: SOC assigned
+2019-Jan-24: Customer created on the NDDoS project (wiki), Agreement & SIWB review done. SOC request done  
+2019-Jan-23:  FD assigned NDDoS deal to MSC",On Hold,2019-02-20,,
+Diapolo Auto Inc,MERAKI,0,0,0,0,0,0,0,,Day 1,2019-03-12,2019-03-12,"",2019-03-12,2019-04-15,2019-04-15,Ibrahima Ba,2019-03-14:  Deliverable and document review ,In Progress,,,
+University Of New Brunswick    Canadian Institute For Cybersecurity (Cic),"NDDOS,CTI",0,0,0,0,1,0,0,0,Day 1,2018-09-24,2019-02-14,"",2018-12-03,2019-02-15,2019-02-01,Ibrahima Ba,"
+Last note from Customer(Pamela): as UNB research team  will identify new features for the reports they will not need to take your teams time to review the DDos reports.
+2019-3-11: Training on Enterprise Center for CTI/NDDOS completed
+2019-3-11: CTI Training scheduled
+2019-3-11: CTI setup completed
+2019-3-06: CTI setup still in progress as per followup with Mansoor of infra Team-
+2019-2-26: CTI Set-up not completed. SOC infra working on it starting Feb 04 and put it in High priority - 1 week to complete 
+2019-2-20: Correy Still will provide CTI training on Fri 25th
+2019-2-12: SOC requested to wait few more days to generate the reports
+2019-2-11: Customer BBP training provided. EC to be completed by Y. Boulanger once data available
+2019-1-28: Cutover confirmed for Friday, February 1st between 6pm-8pm - Conf call will be opened -Attendees: Customer, IP Enablers, SOC, CSE and MSC 
+2019-1-28: Customer engaged and External Kickoff Call held with UNB/CIC (Hamidreza) - All Questions answered by CSE, SOC, and MSC
+2019-1-24: MIS reporting engaged for training- Latest SIWB/OBD created
+2019-1-22: Prepare MIS reporting engagement request
+2019-1-21: 
+- Weekly Touchpoint held (Due Date moved to February 1st following Customer request- initial date was February 15th) -
+- Welcome Package sent to MSCC for both NDDOS and CTI 
+- SR workflow advanced - MSCCTask to be completed 
+2019-1-17: Requested to Customer revised date for turnup NDDoS and CTI services. 
+2019-1-16: BBP user ID creation for NDDoS and CTI completed by CAAS
+2019-1-15: Final SWIB sent to MSCC and External Kickoff Meeting booked
+2019-01-11:Applied 100% discount on both CTI and NDDOS in MBS and BBP template validation (Meeting with Daniel and Kristed scheduled today)
+1/10/2019: Pamela (CIC) populated the list of BBP/EC User IDs for UNB-CIC. Hamidreza Talebi is the CIC System 
+1/08/2019: (KickCall with Corey and David)MSC updated EOM #  for NDDOS and CTI, removed the CTI #BAN, and requested for BBP/EC user ID to UNB
+2019-01-07: Weekly Touchpoint held Minutes sent
+
+
+-----------------------------------------------------------------------2018--------------------------------------------------------------
+2018-12-03: Project assigned to MSC by FD
+2018-12-03: MSCC and SOC assignment request sent
+2018-12-04: MSCC and SOC assignment request (1st reminder), target EOD 12-05
+2018-12-05: (email) MSCC request additional info ""Agreement #"" before assigning a MSCC resource => Info provided
+2018-12-05: Touchpoint for internal  doc Review with Martina
+2018-12-06: Only NDDoS, No CTI 
+2018-12-07: Project put on Hold and use as an ORT because it's the first of kind from Atlantic (
+others were from Central)
+2018-12-17: Kick-off call held
+2018-24-07: First weekly Touchpoint(All Teams) -- Main topic: Circuit orders follow-up with Atlantic/Central IP Enabler and SOC -- weekly Touchpoint(Atlantic/Central Teams set-up for Thursday)
+2018-12-27:Circuit # provided during the weekly call by Atlantic Team .IP Enabler.. 
+",Completed,,,2019-03-18
+Air Canada   Day 2,MISN,1,0,0,0,0,0,0,0,Day 2,2019-03-11,2019-03-11,"",2019-03-11,2019-03-27,2019-04-04,Ibrahima Ba,"2019-03-11: 
+- OBD review and deliverable/step breakdown
+- eSpace creation / emailed L3 to populate 
+
+•	Receive OBD from CSE and Create Folder in Espace
+•	Create folder for OBD in Espace
+•	Send OBD to AC-NSTS-QR@bell.ca and L3Change.AC@bell.ca 
+•	Receive populated OBD from L3
+•	Validate OBD – Management Tools, Specifications, Features 
+•	Determine charges and send to MSCC
+•	Reply to CSE with CI numbers
+•	Ensure all devices are seeded in Spectrum
+",In Progress,,,
+Pace Securities Corp.,NSMIS,0,0,0,0,0,0,0,0,Day 1,2019-03-06,2019-02-11,"",2019-03-06,2019-05-25,2019-05-25,Ibrahima Ba,"2019-03-12:  1st kickoff call held
+2019-03-07: set on March 12 - 1st kickoff call to validate all requirements, roles and responsibilities before beginning the onboarding - Attendee invited Sales/PS/CSE/Alex/MSCs
+2019-03-06: Preparation and deliverable/steps breakdown 
+",In Progress,,,
+Air Canada   Hong Kong   Day 2,MISN,2,0,0,0,0,0,0,0,Day 2,2019-02-28,2019-02-28,"",2019-02-28,2019-02-28,2019-03-22,Ibrahima Ba,"ACC-HKHKG10-D0001-RTR001-EDG --seeding succesfull now in Spectrum and Cap&perf(Mar 25) after error on Mar 22
+ACC-HKHKG10-D0001-SWT001-EDG --seeding succesfull
+
+2019-03-18: MSC to check seeding
+2019-03-18:  MSCC uploaded OBD in Maximo
+2019-03-15: L3 completed ODB - MSC validated and send it to MSCC for Upload
+2019-03-05: L3 Mohammed assigned to this -work in progress
+2019-02-28: 
+- OBD review and deliverable/step breakdown
+- eSpace creation / emailed L3 to populate OBD by March 04th 
+- escalate with L3 on March 04th
+",Completed,,,2019-03-25
+Openbet Technologies Limited,NDDOS,0,0,0,0,4,0,0,0,Day 1,2018-10-30,2018-06-12,SIWB not up to date,2018-11-26,2019-01-15,,Ibrahima Ba,"2019-2-28: All completed on Bell's side. Cx need to installed their equipment in order for SOC to check traffic for NDDoS and go soaking
+2019-2-19: FD and MSC called Sales Manager to provide a deadline before starting billing the Customer  March 15th
+2019-1-25: External KickOff call cancelled. Customer posponned the Due Date until they get ready.  PROJECT ON HOLD 
+2019-1-23: Weekly Touchpoint held: Customer to be follow up regarding the revised Due Date
+2019-1-23: Welcome Package uploaded in Analance by MSCC
+2019-1-22: Prepare MIS reporting engagement request
+2019-1-21: Welcome Package sent to MSCC for both NDDOS and CTI - SR workflow advanced
+2019-1-17: Customer requested an updated of the BBP users IDs list. George Reiter added to the list, Vajk and Stephen removed from it
+2019-1-15: Final SWIB sent to MSCC and External Kickoff Meeting booked
+2019-1-11: Only BBP User IDs remain on the SIWB. Final version of the SIWB expected on Monday 14th.
+2019-1-11: Completion of service (BIDOE, Colocation, IPVPN) to be moved from OpenBet North America Corporation to OpenBet Technologies Limited
+2019-07-19: Chandra checked the BID circuits on PVC oars (citrix version). They are OK and the NDDOS is applied on the highlighted, yellow.
+
+
+------------------------------------------------------------2018----------------------------------------------------------------
+2018-11-27: (email) requested to Chandraduth (Account Architect) the updated SIWB and complete its mandatory fields ''General info'
+2018-11-27: (email) Chandra committed to send the SIWB
+2018-11-28: (email) 1st reminder sent to Chandra regarding the updated SIWB
+2018-11-28: (email) Chandra sent the updated SIWB. How ever it needs to be review as the as he found that the Account, circuits etc are under OpenBet North America Corporation but the NDDoS agreement is under OpenBet Technologies Limited
+2018-11-28: (email) Meeting for SIWB review between MSC Team and Chandra set-up on Friday 
+2018-11-29:  (email) Requested a MSCC
+2018-11-29:  (email) Requested a SOC
+2018-11-29:  (email) SOC Gerald Guerrier assigned to the project
+2018-11-29:   Reconciliation Template partially completed
+2018-11-30: (email) Follow-up with MSCC Team, call Line Roger to assign a MSCC
+2018-11-30: (call) Line confirm a MSCC resource will be assigned by end of day
+2018-11-30: (call) Marie-Eve assigned as a MSCC by Line
+2018-11-30: (conf call) Meeting for SIWB review held. 3 actions items. Customer Name, Set-up fees, and BID OE readiness 
+2018-11-30: Meeting minutes sent to all attendees with the 2 actions items and next steps
+2018-11-30: (email) Action 1. Normal that set-up fees were waived on the agreements? => Yes, got approval from CSA.
+2018-12-03:(email) Action 2: SIWB with the updated Customer Name => Waiting Brian to response by EOD
+2018-12-04: Action 2: completed
+2018-12-04: Internal Kick-Off Meeting prepared and invitation sent to stakeholders
+2018-12-04: Both Service Desk Mgr and MSCC declined the Internal Kick-Off Meeting invitation for some reasons
+2018-12-05: Recon Team request: confirmation of Legal name  => Info provide
+2018-12-05: Touchpoint for internal doc Review before Kickoff call with Martina
+2018-12-06: Kick-Off Meeting Held 
+2018-12-07: Cx creation in Maximo on hold as Recon Team is not able to associate 2 different names with the same OMS # and are requesting why the name has been changed by Sales
+2018-12-10; Follow-up with Sales Rep and request to escalate the issue
+2018-12-10: Sales Rep escalated the issue, and requested requirement to reconcile the Customer info's in order to put the service on and bill it correctly.
+2018-12-14:
+- Questions from Account Architect(Andrei): Web servers’ IP addresses to be registered in NDDoS.
+Can you please provide these IP’s along with information about what data centre they reside at.
+- Response from Customer(Vajk):our team is currently on heavy load and our TechOps team is unfortunately they must focus on other matters at the moment. I assure you that we will give you this information as soon as possible. I would say we need to postpone this until begging of next year.  
+2018-12-17:(Sales Rep): New DDST created:AMBMN36 /  OPENBET TECHNOLOGIES  LIMITED
+2018-12-17:(Sales Rep):
+•	What can we do to ensure there is no rejection and have the BID associated to the above DDST?
+2018-12-17: (Butler BBM) They would go into EOM and change DDST on the asset./ Business Enabler(Fred) do not have access to change the DDSTs on the Assets on an account.  
+2018-12-17:(Sales Rep): Deki tell us over the phone that the DDST change ion the customer Asset should be done now. 
+2018-12-28: Weekly Touchpoint held and Meeting minutes sent
+
+
+",On Hold,2019-01-25,,
